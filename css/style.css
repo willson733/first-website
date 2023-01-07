@@ -1,9 +1,10 @@
-body {         
+body {
     background: url('image/willson.jpg');
     background-size: 100%;
     font-family: 'Poppins', sans-serif;
     font-size: 21px;
 }
+
 .left {
     /* border: 2px solid red; */
     display: inline-block;
@@ -33,18 +34,13 @@ body {
 }
 
 .vavbar2 li {
-
-
-
     list-style: none;
-
 }
 
 .vavbar2 li a {
     text-decoration: underline;
     color: blue;
     font-size: 32px;
-
 }
 
 .vavbar2 li a:hover {
@@ -55,7 +51,7 @@ body {
     /* border: 2px solid red; */
     width: 47%;
     margin: 11px auto;
-    background-color: whitesmoke;
+    /* background-color: whitesmoke; */
 }
 
 .navbar {
